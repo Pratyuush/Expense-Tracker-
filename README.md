@@ -21,3 +21,6 @@ User Interface: Attractive and user-friendly interface for both administrators a
 Interactive Features: Dynamic updates and interactions without the need to reload pages.
 Cross-Browser Compatibility: Ensures the system works smoothly across different web browsers.
 Scalability: Designed to handle varying numbers of products and users efficiently.
+
+![image](https://github.com/Pratyuush/Expense-Tracker-/assets/145635909/d7149a62-c16b-457e-a909-31615457caac)
+
